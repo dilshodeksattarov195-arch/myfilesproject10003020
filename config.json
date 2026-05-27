@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploadereync",
+        "uuid": 29058440,
+        "checksum": "i31ged"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
